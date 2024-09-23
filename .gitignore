@@ -1,7 +1,7 @@
 # Entorno virtual de Python
 venv/
 env/
-
+.venv/
 # Archivos compilados de Python
 *.pyc
 *.pyo
@@ -10,7 +10,6 @@ __pycache__/
 
 # Archivos de configuración local
 instance/
-config.py
 
 
 # Archivos creados por editores
