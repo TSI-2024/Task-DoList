@@ -1,0 +1,27 @@
+# Entorno virtual de Python
+venv/
+env/
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de configuración local
+instance/
+config.py
+
+
+# Archivos creados por editores
+.vscode/
+
+# Logs y archivos de seguimiento
+*.log
+*.pot
+*.py[co]
+
+# PyCharm
+*.idea/
+
+.env
